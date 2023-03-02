@@ -1,0 +1,14 @@
+.btn-blue {
+	background-color: #3C4245;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #EFECEC;
+	font-family: 'Yeseva One', cursive;
+}
+a:hover {
+	color: #5F6769;
+}
+a{
+	transition: color 0.4s ease ;
+}
+
